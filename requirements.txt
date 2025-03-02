@@ -1,0 +1,8 @@
+boto3
+pyspark
+awswrangler
+textblob
+pandas
+requests
+tweepy
+numpy
